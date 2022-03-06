@@ -34,3 +34,16 @@
         <span style="color:yellow;">口</span><span style="color:blue;">口</span><span style="color:blue;">口</span><span style="color:green;">口</span><span>　</span><span>　</span><span style="color:red;">口</span><span style="color:orange;">口</span><br />
         <span style="color:yellow;">口</span><span style="color:blue;">口</span><span style="color:blue;">口</span><span style="color:green;">口</span><span>　</span><span style="color:red;">口</span><span style="color:red;">口</span><span style="color:red;">口</span><br />
     </div>
+
+尝试四，文字颜色改为文字背景颜色：
+
+    <div style="background-color: black;">
+        <span>　</span><span>　</span><span>　</span><span>　</span><span>　</span><span>　</span><span>　</span><span>　</span><br />
+        <span>　</span><span>　</span><span>　</span><span>　</span><span>　</span><span style="background-color:pink;">口</span><span>　</span><span>　</span><br />
+        <span>　</span><span>　</span><span>　</span><span>　</span><span style="background-color:pink;">口</span><span style="background-color:pink;">口</span><span>　</span><span>　</span><br />
+        <span>　</span><span>　</span><span style="background-color:skyblue;">口</span><span>　</span><span style="background-color:pink;">口</span><span>　</span><span>　</span><span>　</span><br />
+        <span style="background-color:yellow;">口</span><span style="background-color:skyblue;">口</span><span style="background-color:skyblue;">口</span><span>　</span><span>　</span><span>　</span><span>　</span><span style="background-color:orange;">口</span><br/>
+        <span style="background-color:yellow;">口</span><span style="background-color:skyblue;">口</span><span style="background-color:green;">口</span><span style="background-color:green;">口</span><span>　</span><span>　</span><span style="background-color:orange;">口</span><span style="background-color:orange;">口</span><br/>
+        <span style="background-color:yellow;">口</span><span style="background-color:blue;">口</span><span style="background-color:blue;">口</span><span style="background-color:green;">口</span><span>　</span><span>　</span><span style="background-color:red;">口</span><span style="background-color:orange;">口</span><br />
+        <span style="background-color:yellow;">口</span><span style="background-color:blue;">口</span><span style="background-color:blue;">口</span><span style="background-color:green;">口</span><span>　</span><span style="background-color:red;">口</span><span style="background-color:red;">口</span><span style="background-color:red;">口</span><br />
+    </div>
