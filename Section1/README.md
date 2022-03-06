@@ -47,3 +47,16 @@
         <span style="background-color:yellow;">口</span><span style="background-color:blue;">口</span><span style="background-color:blue;">口</span><span style="background-color:green;">口</span><span>　</span><span>　</span><span style="background-color:red;">口</span><span style="background-color:orange;">口</span><br />
         <span style="background-color:yellow;">口</span><span style="background-color:blue;">口</span><span style="background-color:blue;">口</span><span style="background-color:green;">口</span><span>　</span><span style="background-color:red;">口</span><span style="background-color:red;">口</span><span style="background-color:red;">口</span><br />
     </div>
+
+尝试五，改变行高：
+
+    <div style="background-color: black; line-height:1em;">
+        <span>　</span><span>　</span><span>　</span><span>　</span><span>　</span><span>　</span><span>　</span><span>　</span><br />
+        <span>　</span><span>　</span><span>　</span><span>　</span><span>　</span><span style="background-color:pink;">口</span><span>　</span><span>　</span><br />
+        <span>　</span><span>　</span><span>　</span><span>　</span><span style="background-color:pink;">口</span><span style="background-color:pink;">口</span><span>　</span><span>　</span><br />
+        <span>　</span><span>　</span><span style="background-color:skyblue;">口</span><span>　</span><span style="background-color:pink;">口</span><span>　</span><span>　</span><span>　</span><br />
+        <span style="background-color:yellow;">口</span><span style="background-color:skyblue;">口</span><span style="background-color:skyblue;">口</span><span>　</span><span>　</span><span>　</span><span>　</span><span style="background-color:orange;">口</span><br/>
+        <span style="background-color:yellow;">口</span><span style="background-color:skyblue;">口</span><span style="background-color:green;">口</span><span style="background-color:green;">口</span><span>　</span><span>　</span><span style="background-color:orange;">口</span><span style="background-color:orange;">口</span><br/>
+        <span style="background-color:yellow;">口</span><span style="background-color:blue;">口</span><span style="background-color:blue;">口</span><span style="background-color:green;">口</span><span>　</span><span>　</span><span style="background-color:red;">口</span><span style="background-color:orange;">口</span><br />
+        <span style="background-color:yellow;">口</span><span style="background-color:blue;">口</span><span style="background-color:blue;">口</span><span style="background-color:green;">口</span><span>　</span><span style="background-color:red;">口</span><span style="background-color:red;">口</span><span style="background-color:red;">口</span><br />
+    </div>
