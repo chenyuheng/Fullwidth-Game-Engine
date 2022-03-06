@@ -32,6 +32,5 @@
         <span style="color:yellow;">口</span><span style="color:skyblue;">口</span><span style="color:skyblue;">口</span><span>　</span><span>　</span><span>　</span><span>　</span><span style="color:orange;">口</span><br />
         <span style="color:yellow;">口</span><span style="color:skyblue;">口</span><span style="color:green;">口</span><span style="color:green;">口</span><span>　</span><span>　</span><span style="color:orange;">口</span><span style="color:orange;">口</span><br/>
         <span style="color:yellow;">口</span><span style="color:blue;">口</span><span style="color:blue;">口</span><span style="color:green;">口</span><span>　</span><span>　</span><span style="color:red;">口</span><span style="color:orange;">口</span><br />
-        <span style="color:yellow;">口</span><span style="color:blue;">口</span><span style="color:blue;">口</span><span style="color:green;">口</span><span>　</span><span style="color:red;">口</span><span style="color:red;">口</span><span style="color:red;">口</span><br
-        />
+        <span style="color:yellow;">口</span><span style="color:blue;">口</span><span style="color:blue;">口</span><span style="color:green;">口</span><span>　</span><span style="color:red;">口</span><span style="color:red;">口</span><span style="color:red;">口</span><br />
     </div>
