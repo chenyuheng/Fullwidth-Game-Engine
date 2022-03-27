@@ -18,3 +18,7 @@
 
 1. [引言](tutorial/1_引言.md)
 2. 画面数据的定义与渲染网页（未完成）
+
+## LICENSE
+
+本仓库代码（`src`）使用 GPL 许可，教程（`tutorial`）使用 CC BY-SA 许可。
