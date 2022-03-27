@@ -16,7 +16,7 @@
 
 ## 教程目录
 
-1. [引言](tutorial/1_引言.md)
+1. [引言](tutorial/1_intro.md)
 2. 画面数据的定义与渲染网页（未完成）
 
 ## LICENSE
